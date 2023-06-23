@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7bc56350-9c68-49b2-8ab9-6f9f4185f963" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ThreadMethd/Deaths.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ThreadMethd/Deaths2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ThreadMethd/Joins.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ThreadMethd/Synchronizeds.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ThreadMethd/Ticket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ThreadMethd/Yields.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/chuangjian/MyThread02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/chuangjian/Mythread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/pool/SinglepoolTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/pool/TestInvokeAnyMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/pool/newFixedThreadPool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/test/Test01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/tongxin/Stack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/zhuanzhang/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/zhuanzhang/Test.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/apache-maven-3.6.3-bin/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\apache-maven-3.6.3-bin\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2Qb3YuPtz2rQmMmFUZ47WnVE9vW" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/24022/Desktop/企业级shiro/shirp&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.ide.settings.uml&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.example.ThreadMethd" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.TestInvokeAnyMethod.Test">
+    <configuration name="Synchronizeds" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.ThreadMethd.Synchronizeds" />
+      <module name="TestDemThreads" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.ThreadMethd.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="org.example.ThreadMethd.Deaths" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.ThreadMethd.Deaths" />
+      <module name="TestDemThreads" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.ThreadMethd.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestInvokeAnyMethod" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TestDemThreads" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.pool.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example.pool" />
+      <option name="MAIN_CLASS_NAME" value="org.example.pool.TestInvokeAnyMethod" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestInvokeAnyMethod.Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TestDemThreads" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.pool.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example.pool" />
+      <option name="MAIN_CLASS_NAME" value="org.example.pool.TestInvokeAnyMethod" />
+      <option name="METHOD_NAME" value="Test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="newFixedThreadPool.Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TestDemThreads" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.pool.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example.pool" />
+      <option name="MAIN_CLASS_NAME" value="org.example.pool.newFixedThreadPool" />
+      <option name="METHOD_NAME" value="Test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TestInvokeAnyMethod.Test" />
+        <item itemvalue="JUnit.TestInvokeAnyMethod" />
+        <item itemvalue="JUnit.newFixedThreadPool.Test" />
+        <item itemvalue="Application.Synchronizeds" />
+        <item itemvalue="Application.org.example.ThreadMethd.Deaths" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7bc56350-9c68-49b2-8ab9-6f9f4185f963" name="Changes" comment="" />
+      <created>1685608506882</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1685608506882</updated>
+      <workItem from="1685608508885" duration="5117000" />
+      <workItem from="1685694885225" duration="7115000" />
+      <workItem from="1686637664096" duration="8263000" />
+      <workItem from="1687228024405" duration="17856000" />
+      <workItem from="1687399791517" duration="1314000" />
+      <workItem from="1687483453399" duration="3290000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/pool/TestInvokeAnyMethod.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
