@@ -4,28 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7bc56350-9c68-49b2-8ab9-6f9f4185f963" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ThreadMethd/Deaths.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ThreadMethd/Deaths2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ThreadMethd/Joins.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ThreadMethd/Synchronizeds.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ThreadMethd/Ticket.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ThreadMethd/Yields.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/chuangjian/MyThread02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/chuangjian/Mythread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/pool/SinglepoolTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/pool/TestInvokeAnyMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/pool/newFixedThreadPool.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/test/Test01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/tongxin/Stack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/zhuanzhang/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/zhuanzhang/Test.java" afterDir="false" />
+    <list default="true" id="7bc56350-9c68-49b2-8ab9-6f9f4185f963" name="Changes" comment="1">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ThreadMethd/WaitAndNotifly.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ThreadMethd/WaitAndNotiflyss.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/ThreadMethd/ThreadCooperationExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/ThreadMethd/ThreadCooperationExample.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,7 +65,7 @@
       <recent name="org.example.ThreadMethd" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.TestInvokeAnyMethod.Test">
+  <component name="RunManager" selected="Application.WaitAndNotifly">
     <configuration name="Synchronizeds" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.ThreadMethd.Synchronizeds" />
       <module name="TestDemThreads" />
@@ -96,8 +79,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="org.example.ThreadMethd.Deaths" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.ThreadMethd.Deaths" />
+    <configuration name="WaitAndNotifly" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.ThreadMethd.WaitAndNotifly" />
       <module name="TestDemThreads" />
       <extension name="coverage">
         <pattern>
@@ -158,11 +141,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.WaitAndNotifly" />
         <item itemvalue="JUnit.TestInvokeAnyMethod.Test" />
         <item itemvalue="JUnit.TestInvokeAnyMethod" />
         <item itemvalue="JUnit.newFixedThreadPool.Test" />
         <item itemvalue="Application.Synchronizeds" />
-        <item itemvalue="Application.org.example.ThreadMethd.Deaths" />
       </list>
     </recent_temporary>
   </component>
@@ -179,8 +162,16 @@
       <workItem from="1686637664096" duration="8263000" />
       <workItem from="1687228024405" duration="17856000" />
       <workItem from="1687399791517" duration="1314000" />
-      <workItem from="1687483453399" duration="3290000" />
+      <workItem from="1687483453399" duration="13371000" />
     </task>
+    <task id="LOCAL-00001" summary="1">
+      <created>1687486791095</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1687486791096</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -197,16 +188,9 @@
       </map>
     </option>
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/example/pool/TestInvokeAnyMethod.java</url>
-          <line>15</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1" />
+    <option name="LAST_COMMIT_MESSAGE" value="1" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
